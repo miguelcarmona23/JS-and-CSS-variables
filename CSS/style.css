@@ -1,3 +1,14 @@
+:root {
+    --base: #374949;
+    --spacing: 10px;
+    --blur: 10px;
+}
+
+
+
+
+
+
 body {
     text-align: center;
     background:#374949;
